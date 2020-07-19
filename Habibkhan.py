@@ -150,11 +150,7 @@ print  """\033[1;91m
 
 
                    WhatsApp : 03492109288
-\033[1;96mAuthor  \033[1;93m: \033[1;92Habib khan
 
-\033[1;96mFacebook  \033[1;93m: \033[1;92m mental Phatan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/habibkhan09/habib
-\033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = Habib
