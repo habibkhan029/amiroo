@@ -17,7 +17,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 
 def keluar():
-	print "\033[1;96m[!] \x1b[1;91mExit"
+	print "\033[1;96m[!] \x1b[1;92mExit"
 	os.sys.exit()
 
 
@@ -92,15 +92,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
        P๏şşIßLY şYЙcђr๏ЙI乙єđ ßY ┼ђIş GI┼ђЦß . 
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ EID MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mHabib Khan
-
-\033[1;96mFacebook  \033[1;93m: \033[1: mental Phatan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Habibkhan09Habibkhan09/Habib.git
 
 
-def tik():
-	titik = ['.   ','..  ','... ']
+
+	
 	for o in titik:
 		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
@@ -141,7 +136,7 @@ print  """\033[1;91m
 
                         HABIB
 
-─
+
 
 
 
